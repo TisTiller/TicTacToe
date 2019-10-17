@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1571298757 source:c:\users\tiller\desktop\game\tic tac toe\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"gametypes.h"
+
+1571296759 source:c:\users\tiller\desktop\game\tic tac toe\computer.cpp
+	"gametypes.h"
+
+1571300104 c:\users\tiller\desktop\game\tic tac toe\gametypes.h
+
+1571304436 source:c:\users\tiller\desktop\game\tic tac toe\player.cpp
+	"gametypes.h"
+	<iostream>
+
+1571304233 source:c:\users\tiller\desktop\game\tic tac toe\board.cpp
+	"gametypes.h"
+	<iostream>
+
